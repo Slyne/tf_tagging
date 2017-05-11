@@ -1,0 +1,7 @@
+数据(原始数据和embedding)和模型文件链接:
+链接: https://pan.baidu.com/s/1dFb2NNb 密码: zvgk
+解压到项目文件下即可
+另外, train.py是核心代码的摘要，忽略。
+
+1. python build_data.py #创建vocabulary
+2. python model.py #训练和测试文件
