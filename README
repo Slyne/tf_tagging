@@ -5,3 +5,5 @@
 
 1. python build_data.py #创建vocabulary
 2. python model.py #训练和测试文件
+
+文章地址: http://www.jianshu.com/p/4cfcce68fc3b
